@@ -1,7 +1,3 @@
----
-layout: home
----
-
 # Welcome to Acts of Love Workshop
 
 A 12-step workshop focused on acts of love. Join us to experience a journey of healing and growth.
